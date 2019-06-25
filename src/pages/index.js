@@ -46,3 +46,11 @@ class IndexPage extends React.Component {
 }
 
 export default IndexPage
+
+// export const pageQuery = graphql`
+//   query BlogPost{
+//       frontmatter {
+//         title
+//         description
+//       }
+//     }`
