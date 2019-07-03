@@ -1,6 +1,6 @@
 backend:
-  name: git-gateway
-  repo: https://github.com/TanyaTandon2019/test.git
+  name: github
+  repo: TanyaTandon2019/test
   branch: master # Branch to update (optional; defaults to master)
 
   # These lines should *not* be indented
